@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec5917bb.css",
+    "main.js": "/static/js/main.b91055f0.js",
+    "static/js/496.cdc291b4.chunk.js": "/static/js/496.cdc291b4.chunk.js",
+    "static/media/Akash_Gupta_Resume.pdf": "/static/media/Akash_Gupta_Resume.ac1f237197c8d2d1786c.pdf",
+    "index.html": "/index.html",
+    "main.ec5917bb.css.map": "/static/css/main.ec5917bb.css.map",
+    "main.b91055f0.js.map": "/static/js/main.b91055f0.js.map",
+    "496.cdc291b4.chunk.js.map": "/static/js/496.cdc291b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec5917bb.css",
+    "static/js/main.b91055f0.js"
+  ]
+}
